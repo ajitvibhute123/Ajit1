@@ -1,0 +1,2 @@
+check=$(((RANDOM%6)+1))
+echo dice getting the no in between 1 to 6 =$check
